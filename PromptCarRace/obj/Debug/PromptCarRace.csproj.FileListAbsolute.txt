@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.exe.config
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.exe
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.pdb
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.exe
+C:\Users\User\Desktop\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.pdb
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.exe.config
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.exe
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\bin\Debug\PromptCarRace.pdb
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.AssemblyReference.cache
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.csproj.CoreCompileInputs.cache
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.exe
+C:\Users\ich96\Algorithm[C#]\PromptCarRace\PromptCarRace\obj\Debug\PromptCarRace.pdb
